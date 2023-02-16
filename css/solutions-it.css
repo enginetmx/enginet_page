@@ -510,6 +510,7 @@ article {
         justify-content: center;
         flex-wrap: wrap;
         gap: 30px;
+        overflow: hidden;
     }
 
     .card-one{
